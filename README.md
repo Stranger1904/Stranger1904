@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stranger1904
-- 👀 I’m interested in JavaScrip
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning VNU University of Engineering and Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on visual studio
 - 📫 How to reach me: Email: dongvanmanh1904@gmail.com
 
 <!---
